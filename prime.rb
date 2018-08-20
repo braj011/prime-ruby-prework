@@ -9,3 +9,4 @@ def prime?(num)
   true
 end
 
+#.downto
